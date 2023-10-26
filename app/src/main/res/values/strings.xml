@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Day13 Food Order App</string>
+    <string name="vivek_s_cafe">Vivek\'s Cafe</string>
+    <string name="enter_order_1">Enter Order 1</string>
+    <string name="name">Name</string>
+    <string name="enter_order_2">Enter Order 2</string>
+    <string name="button">Button</string>
+    <string name="enter_order_3">Enter Order 3</string>
+    <string name="enter_order_4">Enter Order 4</string>
+    <string name="textview">TextView</string>
+</resources>
